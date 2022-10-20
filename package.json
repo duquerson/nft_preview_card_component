@@ -1,0 +1,27 @@
+{
+  "name": "nft_preview_card_component_main",
+  "version": "1.0.0",
+  "description": "component card desing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duquerson/nft_preview_card_component.git"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "js"
+  ],
+  "author": "Duquerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duquerson/nft_preview_card_component/issues"
+  },
+  "homepage": "https://github.com/duquerson/nft_preview_card_component#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.0"
+  }
+}
