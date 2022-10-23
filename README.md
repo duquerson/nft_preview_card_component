@@ -40,7 +40,7 @@ Your users should be able to:
 ### Links
 
 - Solution: [here](https://github.com/duquerson/nft_preview_card_component)
-- Live Site: [here](nftpreviewcardcomponent-psi.vercel.app)
+- Live Site: [here](https://nftpreviewcardcomponent-psi.vercel.app/)
 
 ## My process
 
