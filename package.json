@@ -4,7 +4,10 @@
   "description": "component card desing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "css": "npx tailwindcss -i ./dist/input.css -o ./src/style.css --watch",
+    "css1": "npx tailwindcss -i ./dist/input.css -o ./src/style.css --minify",
+    "html": "pug ./dist/index.pug -o ./src/ -w -P",
+    "html1": "pug ./dist/index.pug -o ./src/ -w"
   },
   "repository": {
     "type": "git",
@@ -22,6 +25,7 @@
   },
   "homepage": "https://github.com/duquerson/nft_preview_card_component#readme",
   "devDependencies": {
+    "pug": "^3.0.2",
     "tailwindcss": "^3.2.0"
   }
 }
